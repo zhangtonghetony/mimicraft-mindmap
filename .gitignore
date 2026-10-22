@@ -1,0 +1,19 @@
+# Local research archive; not part of this independently published product.
+/docs/
+
+node_modules/
+dist/
+build/
+coverage/
+test-results/
+playwright-report/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
+*.log
